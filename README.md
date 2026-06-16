@@ -6,6 +6,8 @@ This project is a 6-DOF robotic arm designed and developed using ESP32-S3 and se
 
 The project demonstrates embedded systems, robotics, hardware-software integration, and motion control principles.
 
+**This repository contains the web application code and project resources for the robotic arm.**
+
 ---
 
 ## Features
@@ -87,37 +89,13 @@ Joystick ---- ESP32-S3 ---- Mobile App
 
 ## Images
 
-### Complete Robot
-
-(Add image here)
-
-### Side View
-
-(Add image here)
-
-### Gripper Mechanism
-
-(Add image here)
-
-### Web Application
-
-(Add image here)
+(Project images and circuit images will be added here.)
 
 ---
 
 ## Demonstration Videos
 
-### Pick and Place Demo
-
-(Add video link)
-
-### Web Control Demo
-
-(Add video link)
-
-### Mobile App Control Demo
-
-(Add video link)
+(Project videos and demonstrations will be added here.)
 
 ---
 
@@ -138,24 +116,11 @@ Joystick ---- ESP32-S3 ---- Mobile App
 6DOF-Robotic-Arm/
 │
 ├── README.md
-├── images/
-│   ├── front_view.jpg
-│   ├── side_view.jpg
-│   ├── gripper.jpg
-│   └── web_interface.jpg
-│
-├── videos/
-│   ├── pick_place_demo.mp4
-│   ├── web_control_demo.mp4
-│   └── mobile_control_demo.mp4
-│
-├── code/
-│   ├── esp32_firmware/
-│   ├── web_app/
-│   └── mobile_app/
-│
-└── docs/
-    └── circuit_diagram.png
+├── Images/            # Project images and circuit images
+├── Videos/            # Demonstration videos
+├── Cad-Files/         # CAD models and mechanical designs
+├── Code/              # Source code and web application code
+└── RoboticArm/        # Robotic arm firmware and related files
 ```
 
 ---
@@ -176,7 +141,7 @@ Joystick ---- ESP32-S3 ---- Mobile App
 
 Electronics and Communication Engineering Undergraduate
 
-Interests:
+### Interests
 
 * Robotics
 * Embedded Systems
